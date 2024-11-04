@@ -1,13 +1,10 @@
 # Correlation and regression for data analysis
 # Aim : 
-
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
 
-# Software required :  
-
-### Python
+# Software required :   Python
 
 # Theory:
 
